@@ -20,7 +20,7 @@ Actualmente me encuentro estudiando programación con enfoque en **C#**, **Java*
 -  Haciendo proyectos pequeños para practicar lo aprendido
 -  Preparándome para aplicar a roles de **junior backend developer**
 
-## Mis metas a corto y mediano plazo
+## Objetivos
 
 1. Publicar **5 proyectos de backend robustos** con documentación completa.  
 2. Dominar **C# y Go**, incluyendo testing y diseño de arquitecturas escalables.  
