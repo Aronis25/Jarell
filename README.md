@@ -1,5 +1,9 @@
 # ¡Hola, soy [Tu Nombre]! 👋
 
+## 🧑‍💻 Sobre mí
+
+¡Hola! Estoy dando mis primeros pasos en el mundo del desarrollo backend.  
+Actualmente me encuentro estudiando programación con enfoque en **C#**, **Java** y **Go**, y estoy buscando oportunidades como **desarrollador backend junior**.
 
 ## Stack actual
 
@@ -10,7 +14,7 @@
   </a>
 </p>
 
-## Lo que estoy aprendiendo
+## Tecnologías que estoy aprendiendo
 
 - TypeScript
 - Docker
