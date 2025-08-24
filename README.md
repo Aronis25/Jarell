@@ -14,13 +14,15 @@ Actualmente me encuentro estudiando programación con enfoque en **C#**, **Java*
   </a>
 </p> 
 
-##Herramientas
+## Herramientas
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,obsidian,idea,vscode,=14" />
   </a>
 </p>
+
 ## Conéctate conmigo:
 
 - Email: 
