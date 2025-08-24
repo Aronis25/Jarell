@@ -2,7 +2,7 @@
 
 Soy **Backend Developer** con experiencia en **C#, Java y Go**, enfocado en construir **aplicaciones escalables y eficientes**. Mi objetivo es combinar **aprendizaje autodidacta**, **metodologías de élite** y **productividad estratégica** para desarrollar proyectos innovadores.
 
-## ⚙️ Stack actual
+## Stack actual
 
 <!--tech stack icons-->
 <p align="center">
