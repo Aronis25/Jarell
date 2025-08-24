@@ -1,30 +1,30 @@
 # Hola, soy Aronis 👋
 
-Soy un **desarrollador backend** con experiencia en **C#, Java y Go**, enfocado en construir sistemas **eficientes, escalables y mantenibles**.  
+Soy **Backend Developer** con experiencia en **C#, Java y Go**, enfocado en construir **aplicaciones escalables y eficientes**. Mi objetivo es combinar **aprendizaje autodidacta**, **metodologías de élite** y **productividad estratégica** para desarrollar proyectos innovadores.
 
-Me apasiona **aprender nuevas tecnologías**, optimizar procesos y escribir código limpio.
+## 🛠 Tecnologías y herramientas
 
-## 💻 Tecnologías y Herramientas
-- **Lenguajes:** C#, Java, Go, Python básico
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas:** Git, Docker, Postman, Linux
-- **Metodologías:** Agile, TDD, Clean Code
+- **Lenguajes:** C#, Java, Go, JavaScript
+- **Frameworks:** .NET Core, Spring Boot, Gin
+- **Bases de datos:** PostgreSQL, MySQL, MongoDB
+- **Herramientas:** Git, Docker, Postman, VS Code, Obsidian
+- **Metodologías:** Kaizen, Monk Mode, Sala Blanca
 
-## 📂 Proyectos Destacados
-- [Proyecto 1](https://github.com/tuusuario/proyecto1) – Backend API en Go para gestión de usuarios.
-- [Proyecto 2](https://github.com/tuusuario/proyecto2) – Sistema de administración con C# y PostgreSQL.
-- [Proyecto 3](https://github.com/tuusuario/proyecto3) – Microservicios con Java y Docker.
+## 🚀 Proyectos destacados
 
-## 🎯 Mis objetivos
-- Convertirme en un **desarrollador backend senior**.
-- Contribuir a **proyectos open source**.
-- Mejorar constantemente en **arquitectura de software y escalabilidad**.
+| Proyecto | Descripción | Tecnologías |
+|----------|------------|------------|
+| [Backend-Core](https://github.com/usuario/Backend-Core) | API REST con pruebas unitarias y base de datos | C#, .NET Core, PostgreSQL |
+| [Go-TaskManager](https://github.com/usuario/Go-TaskManager) | Gestión de tareas diaria siguiendo Kaizen | Go |
+| [Java-BlogPlatform](https://github.com/usuario/Java-BlogPlatform) | Blog completo con roles y autenticación | Java, Spring Boot, PostgreSQL |
+| [Obsidian-Vault](https://github.com/usuario/Obsidian-Vault) | Ejemplo de mi organización personal y aprendizaje | Markdown, Obsidian |
+| [Learning-Algorithms](https://github.com/usuario/Learning-Algorithms) | Algoritmos con explicaciones detalladas | C#, Go |
 
-## 📫 Cómo contactarme
-- Email: tuemail@dominio.com
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+## 📈 GitHub Stats
 
----
+```text
+🏆 Repos: Proyectos de aprendizaje y producción
+📊 Lenguajes principales: C#, Java, Go
 
 
 
