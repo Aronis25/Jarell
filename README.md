@@ -4,10 +4,12 @@ Soy **Backend Developer** con experiencia en **C#, Java y Go**, enfocado en cons
 
 ## ⚙️ Stack actual
 
-- HTML / CSS / JavaScript
-- React
-- Node.js
-- Python
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,cs,java,go,js,py,obsidian,idea,vscode,=14" />
+  </a>
+</p>
 
 ## Lo que estoy aprendiendo
 
@@ -16,16 +18,5 @@ Soy **Backend Developer** con experiencia en **C#, Java y Go**, enfocado en cons
 
 ## ¿Charlamos?
 
-- 📬 Email: tuemail@example.com
-- 🔗 LinkedIn: https://linkedin.com/in/tuusuario
-
-
-
-
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,java,go,js,py,obsidian,idea,vscode,=14" />
-  </a>
-</p>
+- Email:
+- LinkedIn: 
