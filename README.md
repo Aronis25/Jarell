@@ -14,10 +14,11 @@ Actualmente me encuentro estudiando programación con enfoque en **C#**, **Java*
   </a>
 </p>
 
-## Tecnologías que estoy aprendiendo
+## En este momento estoy:
 
-- TypeScript
-- Docker
+-  Estudiando lógica de programación, estructuras de datos y APIs REST
+-  Haciendo proyectos pequeños para practicar lo aprendido
+-  Preparándome para aplicar a roles de **junior backend developer**
 
 ## Mis metas a corto y mediano plazo
 
