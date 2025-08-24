@@ -14,7 +14,7 @@ Actualmente me encuentro estudiando programación con enfoque en **C#**, **Java*
   </a>
 </p> 
 
-## Herramientas
+## Tools
 
 <!--tech stack icons-->
 <p align="center">
