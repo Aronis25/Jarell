@@ -1,56 +1,30 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+# Hola, soy Aronis 👋
 
-<p align="center">
-  Desarrollador | Estudiante | Apasionado por la tecnología
-</p>
+Soy un **desarrollador backend** con experiencia en **C#, Java y Go**, enfocado en construir sistemas **eficientes, escalables y mantenibles**.  
 
----
+Me apasiona **aprender nuevas tecnologías**, optimizar procesos y escribir código limpio.
 
-### 🧠 Sobre mí
+## 💻 Tecnologías y Herramientas
+- **Lenguajes:** C#, Java, Go, Python básico
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
+- **Herramientas:** Git, Docker, Postman, Linux
+- **Metodologías:** Agile, TDD, Clean Code
 
-- 🎓 Actualmente soy [tu ocupación: estudiante de ..., desarrollador junior, etc.]
-- 💻 Me encanta trabajar con: [tecnologías que usas o te interesan]
-- 🌱 Estoy aprendiendo: [tecnología o habilidad que estás aprendiendo ahora]
-- 💬 Pregúntame sobre: [temas que dominas o disfrutas]
-- 📫 Puedes contactarme en: [tu email o redes sociales]
-- ⚡ Dato curioso: [algo divertido o interesante sobre ti]
+## 📂 Proyectos Destacados
+- [Proyecto 1](https://github.com/tuusuario/proyecto1) – Backend API en Go para gestión de usuarios.
+- [Proyecto 2](https://github.com/tuusuario/proyecto2) – Sistema de administración con C# y PostgreSQL.
+- [Proyecto 3](https://github.com/tuusuario/proyecto3) – Microservicios con Java y Docker.
 
----
+## 🎯 Mis objetivos
+- Convertirme en un **desarrollador backend senior**.
+- Contribuir a **proyectos open source**.
+- Mejorar constantemente en **arquitectura de software y escalabilidad**.
 
-### 🛠️ Tecnologías y herramientas
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-<!-- Agrega o quita los que quieras -->
+## 📫 Cómo contactarme
+- Email: tuemail@dominio.com
+- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ---
-
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide=prs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github-dark" />
-</p>
-
----
-
-### 🔗 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Portafolio](https://img.shields.io/badge/-Portafolio-000?style=flat&logo=firefox&logoColor=white)](https://tuportafolio.com)
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-
-
-
-
-
 
 
 
