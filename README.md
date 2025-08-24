@@ -19,7 +19,7 @@ Actualmente me encuentro estudiando programación con enfoque en **C#**, **Java*
 - TypeScript
 - Docker
 
-## 🌟 Mis metas a corto y mediano plazo
+## Mis metas a corto y mediano plazo
 
 1. Publicar **5 proyectos de backend robustos** con documentación completa.  
 2. Dominar **C# y Go**, incluyendo testing y diseño de arquitecturas escalables.  
