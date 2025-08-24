@@ -26,7 +26,8 @@ Actualmente me encuentro estudiando programación con enfoque en **C#**, **Java*
 3. Crear repositorios de **aprendizaje autodidacta** para compartir con la comunidad.  
 4. Mantener **progreso diario de programación** con commits consistentes.  
 
-## ¿Charlamos?
+## Contacto
 
-- Email:
+- Email: 
 - LinkedIn: 
+- Twitter:
